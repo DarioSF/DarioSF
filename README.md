@@ -27,8 +27,8 @@ Podrás encontrar algún proyecto en estos lenguajes:
 ## Redes Sociales
 Conecta conmigo en: (ESTA PARTE ESTÁ EN CONSTRUCCIÓN)
 
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- [Twitter](https://twitter.com/tuusuario)  
-- [GitHub](https://github.com/DarioSF)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/tuusuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/DarioSF)
 
 <!-- Agrega o modifica las redes que prefieras -->
