@@ -11,6 +11,7 @@ Aquí algunos de los lenguajes que mejor manejo:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 Podrás encontrar algún proyecto en estos lenguajes:
+
 [![Racket](https://img.shields.io/badge/Racket-3C4F75?style=flat-square)](https://racket-lang.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
