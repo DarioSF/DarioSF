@@ -27,8 +27,8 @@ Podrás encontrar algún proyecto en estos lenguajes:
 ## Redes Sociales
 Conecta conmigo en: (ESTA PARTE ESTÁ EN CONSTRUCCIÓN)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nozzpache)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dario.sim.fra@gmail.com)
 
 
 <!-- Agrega o modifica las redes que prefieras -->
