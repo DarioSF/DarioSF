@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola! Soy Darío Simón Franco 👋
 
-<!--
-**DarioSF/DarioSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy un estudiante de Ingeniería Informática en la Universidad de Alicante, he creado este repositorio para guardar trabajos de la carrera y así ayudar a futuros estudiantes.
 
-Here are some ideas to get you started:
+## Lenguajes de Programación
+Aquí algunos de los lenguajes que manejo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **JavaScript**  
+- **Python**  
+- **Java**  
+- **C++**  
+
+<!-- Opcional: Puedes usar badges para hacerlo más visual, por ejemplo: -->
+<!-- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -->
+
+## Redes Sociales
+Conecta conmigo en:
+
+- [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- [Twitter](https://twitter.com/tuusuario)  
+- [GitHub](https://github.com/DarioSF)
+
+<!-- Agrega o modifica las redes que prefieras -->
